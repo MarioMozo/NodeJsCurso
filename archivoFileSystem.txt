@@ -1,0 +1,10 @@
+Es un archivo de prueba para ser leido por la funcion filesystem.
+
+Texto 1
+Texto 2
+
+Oracion 1
+Oracion 2
+
+imagen 1
+imagen 2
