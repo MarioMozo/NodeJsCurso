@@ -10,6 +10,6 @@ const {exec, spawn} = require('child_process');
 //     console.log(stdout);
 // })
 
-let proceso = spawn('ls');
+let proceso = spawn('dir', );
 console.log(proceso.pid);
 console.log(proceso.connected);
