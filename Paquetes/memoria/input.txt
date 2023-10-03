@@ -1,0 +1,6 @@
+Soy un archivo para ser leido por un stream.
+Mario Ivan
+Programacion Orientada a Objetos
+Git y Github
+Fundamentos de Software
+Como conseguir trabajo como Frontend Developer
